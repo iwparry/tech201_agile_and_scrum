@@ -34,4 +34,12 @@ The benefits of Scrum include:
 - Minimum risks
 - Better control and transparency
 ![](scrum_fw.png)
+The above diagram gives us a visual representation of the Scrum Framework. 
 
+
+The Scrum framework includes elements we call 'Artifacts', the traditional Scrum artifacts include
+- Product Backlog
+- Sprint Backlog
+- Increment
+
+Scrum Artifacts are elements of the Scrum Framework that support and help the Scrum team with their software development journey.
