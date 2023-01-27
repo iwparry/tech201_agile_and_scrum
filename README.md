@@ -33,4 +33,5 @@ The benefits of Scrum include:
 - Flexibility
 - Minimum risks
 - Better control and transparency
+![](scrum_fw.png)
 
